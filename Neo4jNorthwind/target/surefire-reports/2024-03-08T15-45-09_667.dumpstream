@@ -1,0 +1,5 @@
+# Created at 2024-03-08T15:45:09.839
+Boot Manifest-JAR contains absolute paths in classpath 'T:\exercise\Neo4jNorthwind\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
